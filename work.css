@@ -1,0 +1,437 @@
+body {
+    background: #1E1E1E; 
+    font-family: "Inter", sans-serif;
+    margin: 0;
+}
+
+.circulo-work {
+    margin-top: 100px;
+}
+
+.work-ellipse {
+    margin-top: -580px;
+}
+
+.ellipse-pequeno1 {
+    position: absolute;
+    top: 0;
+    left: 380px;
+    margin-top: 130px;
+}
+
+.ellipse-pequeno2 {
+    position: absolute;
+    left: 420px;
+    margin-top: -40px;
+}
+
+
+
+
+
+
+
+
+
+.rectangle1 {
+    height: 380px;
+    width: 290px;
+    display: flex;
+    object-fit: fill;
+    position: absolute;
+    margin-top: -708px;
+    left: 460px;
+}
+
+.abc1 {
+    position: absolute;
+    font-size: 60px;
+    color: white;
+    padding: 10px 20px;
+    margin: 254px;
+    margin-left: 430px;
+}
+
+.paragrafo1 {
+    position: absolute;
+    font-size: 17px;
+    color: white;
+    padding: 10px 20px;
+    margin: 480px;
+    margin-left: 430px;
+}
+
+.rodape1 {
+    position: absolute;
+    font-size: 13px;
+    color: white;
+    padding: 10px 20px;
+    margin: 575px;
+    margin-left: 433px;
+}
+
+.seta1 {
+    margin-left: 530px;
+    padding: 5px 5px;
+    position: absolute;
+    margin-top: -29px;
+}
+
+
+
+
+
+
+
+
+
+.rectangle2 {
+    height: 380px;
+    width: 290px;
+    display: flex;
+    object-fit: fill;
+    position: absolute;
+    margin-top: -328px;
+    margin-left: 931px;
+}
+
+.abc2 {
+    position: absolute;
+    font-size: 60px;
+    color: white;
+    padding: 10px 20px;
+    margin: -145px;
+    margin-left: 950px;
+}
+
+.paragrafo2 {
+    position: absolute;
+    font-size: 17px;
+    color: white;
+    padding: 5px 5px;
+    margin: 110px;
+    margin-left: 967px;
+}
+
+.rodape2 {
+    position: absolute;
+    font-size: 13px;
+    color: white;
+    padding: 10px 20px;
+    margin: 190px;
+    margin-left: 952px;
+}
+
+.seta2 {
+    margin-left: 1050px;
+    padding: 5px 5px;
+    position: absolute;
+    margin-top: -414px;
+}
+
+
+
+
+
+
+
+
+
+.rectangle3 {
+    height: 380px;
+    width: 290px;
+    display: flex;
+    object-fit: fill;
+    position: absolute;
+    margin-top: 52px;
+    left: 462px;
+}
+
+.abc3 {
+    position: absolute;
+    font-size: 60px;
+    color: white;
+    padding: 10px 20px;
+    margin: 635px;
+    margin-left: 950px;
+}
+
+.paragrafo3 {
+    position: absolute;
+    font-size: 17px;
+    color: white;
+    padding: 5px 5px;
+    margin: 875px;
+    margin-left: 967px;
+    white-space: nowrap;
+}
+
+.rodape3 {
+    position: absolute;
+    font-size: 13px;
+    color: white;
+    padding: 10px 20px;
+    margin: 950px;
+    margin-left: 952px;
+    white-space: nowrap;
+}
+
+.seta3 {
+    margin-left: 1050px;
+    padding: 5px 5px;
+    position: absolute;
+    margin-top: 346px;
+}
+
+
+
+
+
+
+
+
+.rectangle4 {
+    height: 380px;
+    width: 290px;
+    display: flex;
+    object-fit: fill;
+    position: absolute;
+    margin-top: 432px;
+    margin-left: 931px;
+}
+
+.abc4 {
+    position: absolute;
+    font-size: 60px;
+    color: white;
+    padding: 10px 20px;
+    margin: 1000px;
+    margin-left: 430px;
+}
+
+.paragrafo4 {
+    position: absolute;
+    font-size: 17px;
+    color: white;
+    padding: 10px 20px;
+    margin: 1237px;
+    margin-left: 430px;
+    white-space: nowrap;
+}
+
+.rodape4 {
+    position: absolute;
+    font-size: 13px;
+    color: white;
+    padding: 10px 20px;
+    margin: 1310px;
+    margin-left: 433px;
+    white-space: nowrap;
+}
+
+
+.seta4 {
+    margin-left: 530px;
+    padding: 5px 5px;
+    position: absolute;
+    margin-top: 706px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.rectangle5 {
+    height: 380px;
+    width: 290px;
+    display: flex;
+    object-fit: fill;
+    position: absolute;
+    margin-top: 812px;
+    left: 460px;
+}
+
+.abc5 {
+    position: absolute;
+    font-size: 60px;
+    color: white;
+    padding: 10px 20px;
+    margin: 1380px;
+    margin-left: 950px; 
+}
+
+
+.paragrafo5 {
+    position: absolute;
+    font-size: 17px;
+    color: white;
+    padding: 5px 5px;
+    margin: 1620px;
+    margin-left: 967px;
+    white-space: nowrap;
+}
+
+
+.rodape5 {
+    position: absolute;
+    font-size: 13px;
+    color: white;
+    padding: 10px 20px;
+    margin: 1690px;
+    margin-left: 952px;
+    white-space: nowrap;
+}
+
+.seta5 {
+    margin-left: 1050px;
+    padding: 5px 5px;
+    position: absolute;
+    margin-top: 1086px;
+}
+
+
+
+
+
+
+
+
+
+.rectangle6 {
+    height: 380px;
+    width: 290px;
+    display: flex;
+    object-fit: fill;
+    position: absolute;
+    margin-top: 1192px;
+    margin-left: 931px;
+}
+
+
+.abc6 {
+    position: absolute;
+    font-size: 60px;
+    color: white;
+    padding: 10px 20px;
+    margin: 1750px;
+    margin-left: 430px;
+}
+
+
+.paragrafo6 {
+    position: absolute;
+    font-size: 17px;
+    color: white;
+    padding: 10px 20px;
+    margin: 1980px;
+    margin-left: 430px;
+    white-space: nowrap;
+}
+
+.rodape6 {
+    position: absolute;
+    font-size: 13px;
+    color: white;
+    padding: 10px 20px;
+    margin: 2050px;
+    margin-left: 433px;
+    white-space: nowrap;
+}
+
+.seta6 {
+    margin-left: 530px;
+    padding: 5px 5px;
+    position: absolute;
+    margin-top: 1445px;
+}
+
+
+
+
+
+
+.rectangle7 {
+    height: 380px;
+    width: 290px;
+    display: flex;
+    object-fit: fill;
+    position: absolute;
+    margin-top: 1572px;
+    left: 460px;
+}
+
+
+.abc7 {
+    position: absolute;
+    font-size: 60px;
+    color: white;
+    padding: 10px 20px;
+    margin-top: 2130px;
+    margin-left: 950px; 
+}
+
+
+
+.paragrafo7 {
+    position: absolute;
+    font-size: 17px;
+    color: white;
+    padding: 5px 5px;
+    margin-top: 2360px;
+    margin-left: 967px;
+    white-space: nowrap;
+    
+}
+
+
+.rodape7 {
+    position: absolute;
+    font-size: 13px;
+    color: white;
+    padding: 10px 20px;
+    margin-top: 2420px;
+    margin-left: 952px;
+    white-space: nowrap;
+    
+}
+
+.seta7 {
+    margin-left: 1050px;
+    padding: 5px 5px;
+    position: absolute;
+    margin-top: 1816px;
+}
+
+
+
+
+
+
+
+
+ul {
+    color: white;
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    gap: 120px; /* causa espaçamento entre os links*/
+    padding-left: 260px;
+    font-size: 27px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -300px;
+}
+
+ul li a {
+    text-decoration: none;
+}
+
+a {
+    color: #7c7a7a5e;
+}
+

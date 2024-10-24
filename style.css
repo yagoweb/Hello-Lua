@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,200;1,14..32,200&display=swap');
+
+
+
+body {
+    background: #1E1E1E; 
+    font-family: "Inter", sans-serif;
+    /*overflow: hidden;*/
+}
+
+h1 {
+    font-size: 116px;
+    letter-spacing: 12px;
+    padding-left: 90px;
+}
+
+
+.texto{
+    display: flex;
+    text-align: center;
+    margin-top: -430px;
+    flex-direction: column;
+    padding-right: 910px;
+    color: #FFFFFF;
+}
+
+p {
+    padding-right: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: -90px;
+}
+
+span {
+    text-align: left;
+    padding-left: 484px;
+    position: relative;
+    top: -96px; 
+}
+
+.circulo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 110px;
+    padding-left: 118px;
+}
+
+.circulo-roxo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -570px;
+    padding-left: 118px;
+}
+
+.circulo-p1{
+    position: absolute;
+    top: 0;
+    left: 710px;
+    margin-top: 70px;
+}
+
+.circulo-p2 {
+    position: absolute;
+    padding-left: 600px;
+    margin-top: 70px;
+}
+
+.circulo-p3 {
+    position: absolute;
+    top: 0;
+    left: 1450px;
+    margin-top: 150px;
+}
+
+.circulo-p4 {
+    position: absolute;
+    left: 1507px;
+    margin-top: -70px;
+}
+
+.links {
+    color: white;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 100px; /* causa espaçamento entre os links*/
+    align-items: center;
+    padding-left: 2020px;
+    font-size:27px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -300px;
+}
+
+ul li a {
+    text-decoration: none; 
+}
+
+a {
+    color: #7c7a7a5e;
+}
+
+
